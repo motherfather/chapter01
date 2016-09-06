@@ -16,3 +16,4 @@ public class TypeCast2{
 //	System.out.println(" float 123.456을 byte로 변환: " + b);
 
 }
+// 변경!!!
