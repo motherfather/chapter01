@@ -1,6 +1,6 @@
 package chapter01;
 
-public class TypeCast2 {
+public class TypeCast2{
 	byte b;
 	int i = 414;
 	float f = (float)123.456;
