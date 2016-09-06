@@ -23,6 +23,7 @@ public class NHelloWorld02 {
 			}
 			System.out.println();
 		}
+		scanner.close();
 	}
 
 }

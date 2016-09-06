@@ -28,7 +28,7 @@ public class PrimeDetect {
 			System.out.println(num + "은 소수 X");
 		else
 			System.out.println(num + "은 소수 O");
-
+		scanner.close();
 	}
 }
 
