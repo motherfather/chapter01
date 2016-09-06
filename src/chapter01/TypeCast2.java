@@ -4,6 +4,7 @@ public class TypeCast2{
 	byte b;
 	int i = 414;
 	float f = (float)123.456;
+	int a = 1;
 //	float f2 = 123.456f;
 //	
 //	b=(byte)i;
