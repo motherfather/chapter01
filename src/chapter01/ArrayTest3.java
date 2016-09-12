@@ -4,10 +4,10 @@ public class ArrayTest3 {
 
 	public static void main(String[] args) {
 		
-		int arrayInt2[];	// 비추천방법
+		int arrayInt2[];	// 비추천방법 []를 뒤에...
 //		int[10] arrayInt3;	// 오류
 		
-		int[] arrayInt1;	// *추천방법
+		int[] arrayInt1;	// *추천방법 []를 앞에!!!
 		arrayInt1 = new int[10];
 		arrayInt1[0] = 1;
 		arrayInt1[1] = 2;
